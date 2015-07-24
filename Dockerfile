@@ -1,6 +1,4 @@
-FROM centos:7.1.1503
-
-
+FROM sunyi00/centos:lain
 
 ENV DOWNLOAD_URL http://download.oracle.com/otn-pub/java/jdk/8u51-b16/jdk-8u51-linux-x64.tar.gz
 
